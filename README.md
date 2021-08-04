@@ -9,10 +9,11 @@ Many Important Features are :
 
 # Operations to control car
 
-w -> accelerate , 
-s -> deccelerate ,
-a -> steer left ,
-d -> steer right.
+1) w -> accelerate 
+2) s -> deccelerate
+3) a -> steer left
+4) d -> steer right
+
 
 # ScreenShots
 
